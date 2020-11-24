@@ -1,0 +1,228 @@
+ID,Meanings,PartOfSpeech,Addition,EndOfClause,Example
+201__An.104.1,Additive,Noun,,Yes,karʲan ʦelinaja da gajzaj
+201__An.110.1,Connector,Verb,PST,No,karʲən mana sundɨrʲdan korʨëɕ ta vërenmezërek ëɕlenë birgi
+201__An.115.1,Indef,Pronoun,Neg,No,"выход дней dan, a nim de ɕok"
+201__An.125.1,Indef,Pronoun,Neg,No,"saldaga gajmanʲəzam vəzam nimde mar, xəramala marʨə vəzanʥan"
+201__An.129.1,Additive,Noun,,No,on ʨonʲa janfarʲ fevralʲda mënle tëttëm
+201__An.13.1,ScalarAdditive,Noun,,No,lapkine ʂuʂki de kimenʂi
+201__An.142.1,Connector,Verb,PST,Yes,"tre, prex tiskerën kəʂkərzerʨë de"
+201__An.146.1,ScalarAdditive,Pronoun,мест xam,No,"xam da sismerëm det, mënle kəʂkərzernine det"
+201__An.148.1,Connector,Verb,PST,No,"ara, përe kəʂkərzerʨë de, leʂ aʨa tyrt kalʲa tapsa sekrë"
+201__An.155.1,Connector,Verb,NPST,No,"no, kalaza per përe, pet мучить taʨə da për arʑɨn aʨa"
+201__An.156.1,Connector,Verb,PST,No,"magərzerdëmër maruɕ ikën de, kërze garʲəmər da direkʦine"
+201__An.156.1,Collective,Num,,No,"magərzerdëmër maruɕ ikën de, kërze garʲəmər da direkʦine"
+201__An.168.1,Connector,Pronoun,,No,onda da gajzerzepër ikën
+201__An.174.1,Connector,Verb,NPST,No,pëlet te xa jonanine
+201__An.176.1,Connector,Verb,PST,Yes,"teple штабель ɕinʥen andəm, ëɕ pëtrë de leʂ vodə грузить tuza pëderdëmër de"
+201__An.176.1,Connector,Verb,PST,No,"teple штабель ɕinʥen andəm, ëɕ pëtrë de leʂ vodə грузить tuza pëderdëmër de"
+201__An.177.1,Connector,Verb,PST,No,"teple штабель ɕinʥen andəm, ɕa morgoʂ ɕɨnnʲa pɨrdəm da ɨdalaza lartrəm kapla xolʲənʲʥan"
+201__An.184.1,Additive,Adverb,,No,xalʲda xarzər bolʲə
+201__An.186.1,Connector,Noun,,No,"urok tunə ʥonʲa da, ɕanba da pet tarəkrëɕ polʲ man ɕine, vəl ʨetajzam"
+201__An.186.1,Connector,Dem,,No,"urok tunə ʥonʲa da, ɕanba da pet tarəkrëɕ polʲ man ɕine, vəl ʨetajzam"
+201__An.193.1,Coordination,Verb,PST,No,"oj, tarəksa ɕitrëm, pulavkə ilʲdëm de"
+201__An.194.1,Coordination,Verb,PST,Yes,"ɕapla jəbəʂtən, terdëm de ajakine"
+201__An.195.1,Connector,Verb,PST,Yes,jo-o tapsa sekrë de
+201__An.197.1,Additive,Pronoun,Personal,No,uʨitelʲ ɕapla laragan ona xerëɕ vəl da xərazykrë
+201__An.198.1,Additive,Noun,,No,aʨazam da un-kun pəkalaʨə – mën bolʲʨë deʨë
+201__An.199.1,Indef,Pronoun,Neg,No,"ep nimde ʂarlamap, no man kolmala marʨə"
+201__An.2.1,Connector,Verb,NPST,No,irgi smenəran doxap ta kile
+201__An.203.1,Coordination,Verb,PST,No,"звонок teple bolʨə, учитель kalaza da poɕpimerë, чёрту, звонок polʨë tokrəm da tardəm aʨazam təriʨenek"
+201__An.203.1,Connector,Verb,CV_SIM ,No,"звонок teple bolʨə, учитель kalaza da poɕpimerë, чёрту, звонок polʨë tokrəm da tardəm aʨazam təriʨenek"
+201__An.204.1,Additive,Pronoun,мест xam,No,"xam da kodən bolza, ɕan ʨoknʲa bulavkəba terni"
+201__An.207.1,Connector,Verb,NPST,No,"xolen ʨɨʐap ta, pulavki mën ʨulë gëret"
+201__An.212.1,Connector,Verb,NPST,No,"vërenze togatər da kaʨa kajzeretër det, serden mën osi det"
+201__An.213.1,Connector,Verb,PST,No,"ep kalarəm, tərdəm tərdəm da, traktorize kaʨa kajapər derëm"
+201__An.226.1,Connector,Verb,PST,No,"vɨrtrəm da, koɕnʲa xopsa lartrəm da, tortrəm kuroknʲa"
+201__An.226.1,Connector,Verb,PST,Yes,"vɨrtrəm da, koɕnʲa xopsa lartrəm da, tortrəm kuroknʲa"
+201__An.230.1,Connector,Verb,PST,Yes,nim dëlemezër berdëm de
+201__An.231.1,Connector,Adverb,,No,karʲən da otni berdereʨë
+201__An.236.1,Coordination,Verb,PST,No,"karʲən pəgap, ej, dep ep vəlʲnʲa pəkmarəm da dep, koʑa xoprəm da tortrəm"
+201__An.236.1,Connector,Verb,PST,No,"karʲən pəgap, ej, dep ep vəlʲnʲa pəkmarəm da dep, koʑa xoprəm da tortrəm"
+201__An.238.1,Connector,Verb,NPST,Yes,"a nebolʲak vërentse on ʨox, xruɕov vəxəʥənʥa amerikəpa talaʐu bɨrat ta"
+201__An.240.1,Connector,Verb,IMP,No,"ser deʨë, xërzem deʨë, propkine kapla kəlarzilërde teʨë, ʨobər, karʲən sɨvləʂ lajək teʨë"
+201__An.25.1,Connector,Verb,PST,No,"kəlbasine tada, përe garʲəm da sɨsna osraman vəl ɕol"
+201__An.25.1,Coordination,Noun,,No,porfilʲ porfilʲ de  porfirʲ de orine
+201__An.25.1,Coordination,Noun,,No,porfilʲ porfilʲ de  porfirʲ de orine
+201__An.26.1,Coordination,Noun,,No,porfilʲ porfilʲ de  porfirʲ de orine
+201__An.26.1,Coordination,Noun,,No,porfilʲ porfilʲ de  porfirʲ de orine
+201__An.30.1,Connector,Verb,CV_SIM ,No,tɨrə numaj polza da perën
+201__An.35.1,ScalarAdditive,Adj,,No,xalʲ ɨtla da lajək porənapər ʂotlazan
+201__An.36.1,Connector,Verb,CV_SIM ,Yes,porfilʲ biʨi vilzesën ʨënme bɨrza da
+201__An.37.1,Connector,Verb,PST,No,tərza larʨə da pëʥëksker
+201__An.39.1,Connector,Verb,NPST,Yes,leʂ ɕɨrma xërine tokkalaza larat ta
+201__An.4.1,Connector,Verb,NPST,No,əʐədap ta irbele veɕ ɕaksa xarap kaʂtazem ɕine meʐeksene xuza
+201__An.44.1,Connector,Verb,CV_SIM ,No,"por dep, ʨəmlaza da ølimep, anza gajat xəʂ ʨonʲa dep, vɨɕa larzan dep"
+201__An.45.1,Coordination,Num,,No,jep пясят пять de pilëk ɕol maldan mandan
+201__An.47.1,Indef,Pronoun,Neg,No,nimbe de numaj ʨəmlimep
+201__An.50.1,Connector,Verb,CV_SIM ,Yes,"ʨəmlat, ʨəmlat, ʨəmlat, oj-oj sanba dan ʨəmlaza ɕiderme polmas terëm përe larzap ta"
+201__An.54.1,Connector,Num,,No,"ʨəmlat , xërëx te jertse kajat polʲ on"
+201__An.57.1,Additive,Noun,,No,"kaʨa gajzanak korza xalʲə, ɕime larzapər da ikën"
+201__An.57.1,Connector,Verb,CV_SIM ,No,vəlzanʲa da ize togsa gajzaɕ kulak teze
+201__An.59.1,Connector,Verb,NPST,No,"ləki-loki ɕɨrdap ta man уж xɨrəm dəranza, vəl tada ʨəmlaza larat"
+201__An.63.1,Connector,Verb,CV_SIM ,Yes,uʨiliɕa vërenme kajza da
+201__An.69.1,Connector,Verb,PST,No,vurza tokrəmər da det
+201__An.70.1,Connector,Verb,CV_SIM ,No,"kajza da, xër aʨazam ikën kërze lardəmər, leʂ jungə xër aʨibele"
+201__An.74.1,Coordination,Verb,PST,No,"këdër-kydër tərdəmər da toksa karəmər, valdi grupəzam"
+201__An.74.1,Connector,ATTR,ATTR,No,aʨibəʨi veɕ ɕire mën bor kodomkaja mën ʨigze ɕimeli de ʥigtermerëɕ tet
+201__An.75.1,Coordination,Verb,PST,No,poɕtarʨëɕ ta toksa garëɕ det
+201__An.77.1,Indef,Pronoun,неопр мест,No,xozjajstvəra mën ɕok edemën tem de bor
+201__An.78.1,Additive,Noun,,No,ɕiboɕə da bor temënë de bor
+201__An.78.1,Indef,Pronoun,неопр мест,No,ɕiboɕə da bor temënë de bor
+201__An.85.1,ScalarAdditive,Dem,,No,ɕana da astat vəl
+201__An.88.1,Connector,ATTR,,No,ɕə kəʂkəra kəʂkəra jaraʨə det kajala da pəktarmaɕë det
+201__An.90.1,Connector,ATTR,,No,xɨrəmbala da ʂuza mën ʨuxlë jorəʂən oldə ojək xoʂinʥe
+201__An.96.1,Additive,Dem,,No,"konda da ɕan iʂi deʨëɕ,  порядок teʨëɕ"
+201__Zi.10.1,Indef,Pronoun,Neg,No,xotʲ jurə polza mënʐën tezen nixənʥa da nista da kajza gorman
+201__Zi.10.1,Coordination,Noun,,No,xotʲ jurə polza mënʐën tezen nixənʥa da nista da kajza gorman
+201__Zi.12.1,Indef,Pronoun,Neg,No,no orʲək nista da gajza gorman
+201__Zi.13.1,Indef,Pronoun,Neg,No,ɕamba da inʑetre okɕi деньги ɕok nigam da pere подержать tuman poləʂman
+201__Zi.13.1,Connector,Dem,,No,ɕamba da inʑetre okɕi деньги ɕok nigam da pere подержать tuman poləʂman
+201__Zi.17.1,Coordination,Noun,,No,papəda mamə poləʐimeɕë
+201__Zi.2.1,Coordination,Verb,CV_SIM ,No,sagər glas pëderze de jep per kanaʂ peduʨiliɕine vrenme gajza
+201__Zi.21.1,ScalarAdditive,Noun,,No,palʲto da ize barimen
+201__Zi.25.1,Connector,Dem,,No,ɕamba  da mana vërenme intereslë bolzan
+201__Zi.30.1,Coordination,PC,,No,xəspar ʨoknʲa kilen de ɕa konak kajala gajmala
+201__Zi.31.1,Indef,Pronoun,Neg,No,no nimde mar vërenze tokma tərəʂsa
+201__Zi.35.1,Connector,Verb,CV_SIM ,No,aʨizem patne jep pɨrza da ɕørimep mënʐën tezen inʐetre laraʨə
+201__Zi.38.1,Coordination,Verb,PST,No,Kanaʂ педучилище xɨɕən jalda ik ɕol vërendëm de karʲan ik ɕol ëɕlerëm de karʲan kajrʲəm vërenme уни... instituda pedinstituda
+201__Zi.42.1,Connector,Noun,,No,karʲan mana selʲsovet predsedatelʲne de sojlarëɕ jep onda tvat ɕol ëɕlerëm
+201__Zi.46.1,ComplexNum,Num,,No,pin de igë pin de vonəməʂ ɕolda pensi ɕine karʲəm 
+201__Zi.7.1,Coordination,Verb,PST,No,tatən karʲəmər da ikën anʥak kërirdëmër tebr ikëʂ kërimerëɕ
+201__Zi.8.1,Collective,Num,,No,no ikën de uʨitëlʲzem polza tokrəmər
+20100818 19.1,Connector,Verb,CV_SIM ,No,kaʨagi ɕëtse kajza видно da vəl ona dɨtsa da kandraba ɕatsa gajat
+20100818 19.1,Connector,Verb,CV_SIM ,No,kaʨagi ɕëtse kajza видно da vəl ona dɨtsa da kandraba ɕatsa gajat
+20100818 23.1,Coordination,Verb,PST,No,karʑinkəzam batne ɕitrë de velosipet ɕinʥen anʨə
+20100818 27.1,Connector,Verb,PST,Yes,karʲən velosipet ɕine larʨə da karʑinkine руль ɕine a руль omne lartrë da 
+20100818 27.1,Coordination,Verb,PST,No,karʲən velosipet ɕine larʨə da karʑinkine руль ɕine a руль omne lartrë da 
+20100818 32.1,Coordination,Verb,PST,No,arʑɨn aʨin poʑənʥi ʂlʲapi xunzykrë de vəl xɨʑala pəknə ʨokne ʨol ɕine pɨrza ɕabənʨə
+20100818 34.1,Additive,Pronoun,мест,No,velosipeʨə ykrë xəj da ykrë gruʂ... karʑinkəri gruʂizem salanza garʲəɕ
+20100818 37.1,Coordination,Verb,PST,No,gruʂine karʑinkəja toldarza barʨəɕ ta velosipet ɕine lartsa barʨəɕ
+20100818 43.1,Connector,Verb,PST,Yes,për arʑɨn aʨi ʂlʲapine doprë da 
+20100818 45.1,Connector,Verb,PST,Yes,leʂ arʑɨn aʨi ʨarənʨə da 
+20100818 51.1,Coordination,Verb,PST,No,gruʂə tadagan tøtijë posma ɕinʥen anʨə da
+20111208 10.1,Connector,Noun,,No,nimn vəzan содержание de ənlanmala mar
+20111208 103.1,Additive,Noun,,No,onda olbut pøkenë de bor
+20111208 116.1,Connector,Verb,NPST,No,а то sorban ɕinʥi tërizene pəgapər da mëne bëlderet
+20111208 117.1,Indef,Pronoun,мест,No,все равно ʨënze mën de deze ʨënze
+20111208 127.1,Indef,Pronoun,Neg,No,mën jargəʨi topsa da ɕipne ɕana man tërles kilet aʨa nigam da tërleme vërentmen
+20111208 127.1,Connector,Noun,,No,mën jargəʨi topsa da ɕipne ɕana man tërles kilet aʨa nigam da tërleme vërentmen
+20111208 128.1,Coordination,Verb,PST,No,"no man tërles kilet, ik poʑənʥan tatrəm da ɕipne kəlarma xətlanap, kəlarimestëp"
+20111208 13.1,Connector,Verb,CV_ATT,No,ëlëk tada ʂkola gajnə vəgətra pet vulapʨə da abi пустой kënege vulanəʐən vərʑaʨə
+20111208 132.1,Coordination,Verb,PST,No,vara vəl ʂoldra xoləmrak pir kørtrë de ɕa xolʥi gajəknʲa tërleme vërentrë
+20111208 135.1,ScalarAdditive,Noun,,No,eb on ʨonʲa ʂkola da gajman
+20111208 14.1,Coordination,Verb,гл: COP_PST,No,xaʐet  tɨdapʨə da tøl enʥen ɕɨrzardapʨə ili русский язык ili родной язык
+20111208 140.1,Coordination,Noun,,No,ɨtizem veɕ ʂkola da ëʑe kajza bëtse
+20111208 142.1,Coordination,Verb,CV_SIM ,No,ɕanaʂkal tërë ɕip kerlë polza da jargəʨi turaza təksa ebë
+20111208 144.1,Connector,Verb,NPST,No,xolʥi gajək këbe ɕɨksa barat ta ʨopsa ɕøriʨen tërë du detʨë
+20111208 147.1,Additive,Noun,,No,sorbanʲnʲa da xusaməra valek tërlezettër bolʲ
+20111208 149.1,Connector,Verb,CV_SIM ,No,sorbanʲnʲa abizem tërleze de sorbana ona mën
+20111208 15.1,Coordination,Verb,NPST,No,pɨrat ta ʂoldra ɕɨrnine vuliret abi ɨtine vulaza bëlmes
+20111208 152.1,Connector,Verb,NPST,No,përe tërlen de prozniksanʲʥa
+20111208 155.1,ScalarAdditive,Verb,INF,No,a ëlëk avalak vəl sorbanzər ɨraʂ vurma da dokman teʨë abi
+20111208 16.1,Indef,Pronoun,Neg,No,ë nim de ʨënmes kajzeret
+20111208 161.1,Coordination,Verb,NPST-COP_PST,No,olbut pøkenʲne xam tërleme pet joradapʨə da ona manman uʐ
+20111208 171.1,Coordination,PC,PC_PST,No,vəl ʨaʂla tërlenë təgənnə da kartəʨkə ygerterze man batnʲe jerze kartəʨkine
+20111208 174.1,Connector,Verb,PST,No,vot tet papinne det ɕanə vëɕne yknine kordəm da det
+20111208 22.1,ScalarAdditive,Adverb,,No,vot xalʲ da vulama ʨarənimestëp
+20111208 23.1,Connector,Verb,CV_ATT,No,koɕləkba bolzan da vulap
+20111208 3.1,Connector,Verb,NPST,No,kënege ɕinʥije pəxadən da sana jep xamran anʥak пример ize galap
+20111208 33.1,Connector,Noun,,No,aʨazanʲa da jəslap me vulamastər
+20111208 34.1,Indef,Pronoun,один,No,manaʂkal përi de vulagan polmarëɕ
+20111208 36.1,Additive,Noun,,No,ul aʨizem ɕok ənəkizem de vulamasʨë не знаю demle aʨazam
+20111208 53.1,Connector,Verb,CV_SIM ,Yes,ɕënë oram polza da
+20111208 58.1,Additive,Noun,,No,sern abuzam da poʂkərtsamak veɕ polza
+20111208 63.1,Indef,Pronoun,один,No,no aʨizene përine de vërentmen 
+20111208 65.1,Connector,Verb,ATT+COP_PAST,No,përmëʂ klaza ikëmëʂ klaza kajkalapərʨë da det
+20111208 67.1,Additive,Noun,,No,xër aʨazanʲa puʂej jemen ul aʨizene de jemen
+20111208 68.1,Connector,Noun,,No,pern koki de aslə ulë vərʑəra axa vərʑa gajzan din përmëʂ tënʥe vərʑinʥe din ɕɨrma vulama vërenze
+20111208 69.1,Additive,Pronoun,мест,Yes,а то pëlmen det vəl da
+20111208 76.1,Additive,Noun,,No,pern abi de vërendesʂënek mar
+20111208 83.1,Indef,Pronoun,Neg,No,xalʲ mën ëɕlen xalʲ nim de ëɕ ɕok
+20111208 84.1,Connector,Noun,,Yes,aptrazerep veɕ kilʲde de
+2017__Lu 19.1,Coordination,Verb,PST,No,arʑɨn ɕine pəksilʨë de velosipetne xorʨə
+2017__Lu 25.1,Indef,Pronoun,Neg,No,olmuɕ ɕinʥi arʑɨn nimën de pëlmes
+2017__Lu 28.1,Coordination,Verb,PST,No,vəzam tël bolʨëɕ ta ertse garëɕ
+2017__Lu 30.1,Connector,Pronoun,мест,No,xəj de ykrë
+2017__Lu 33.1,Coordination,Verb,PST,No,vəzam on batne pɨrʨəɕ ta poləʂma boɕlarëɕ
+2017__Lu 44.1,Coordination,Verb,PST,No,yɕ ɕinʥi arʑɨn anʨə da poʐə karʑinkəja korzerʨë
+20170510 10.1,Coordination,Verb,PST,No,учительница pɨrʨə da me tërëz mar ɕɨrzize terë
+20170510 13.1,Coordination,Verb,NPST,No,arʑɨn aʨa pɨzək yɕ ɕine xəbarza gajat ta xuləʂnʲa pəgat
+20170510 15.1,ScalarAdditive,Noun,,No,pajan kon da on ɕinʥen astap
+20170510 15.1,Coordination,Verb,NPST,No,ta ona xəlama poɕlat 
+20170510 19.1,Connector,Verb,NPST,Yes,xəranibe vəl majrakibe aʨaja ɕaklatsilet te
+20170510 2.1,UniversalQuantifier,Quant,,No,"kaɕpa, porə da ɕurza gajsan, ʂaba toksa dərat"
+20170510 27.1,Coordination,Verb,NPST,No,ikëʂ te përene xɨɕnʲa pəgaʨə da onda igë ʂabaja goraʨə
+20170510 27.1,Collective,Num,,No,ikëʂ te përene xɨɕnʲa pəgaʨə da onda igë ʂabaja goraʨə
+20170510 3.1,Connector,Verb,NPST,No,"irbe, ɕurza tərzan pəgaʨə da bankəra ʂaba ɕok"
+20170510 30.1,Coordination,Verb,NPST,No,ona ilet te porë da kajala kilele kajaʨə
+20170510 30.1,UniversalQuantifier,Quant,,No,ona ilet te porë da kajala kilele kajaʨə
+20170510 4.1,Indef,Pronoun,Neg,No,jep toska ɕine pəgap nim de gormap
+20170510 5.1,Indef,Pronoun,Neg,No,"tolikren jedep, tebër jenʥe laragan xër aʨaran jedep nigam da kalamas mën ɕɨrmala"
+20170510 6.1,Indef,Pronoun,Neg,No,"koməʨəba ʂɨraʨə, tyreʨe uɕsa kəʂkəraʨə nista da ɕok "
+20170510 7.1,Connector,Verb,NPST,No,tebër gonnʲa тетрадь parzan pəgap ta man jediniʦa
+20170510 8.1,Additive,Noun,,No,toligën da jediniʦa
+20170806 11.1,ScalarAdditive,Verb,CV_ANT,No,в общем-то передний-задний ведущий polzanda
+2017080614.1,ScalarAdditive,Pronoun,Personal,No,"vəl=da сразу, вид[но], этот, не догадался, видать, vəl, për bër s... ʨol xormaʂkən priʦep anʲe"
+20170806 16.1,Connector,Verb,PST,No,vara man priʦep ʂuza garë garëda jep kabinrax larap ende nistada этот этот tarma tem duma  ende maʂinə sekme ʂotlamarəm=da
+2017080616.1,Coordination,Verb,PST,No,vara man priʦep ʂuza garë garëda jep kabinrax larap ende nistada этот этот tarma tem duma  ende maʂinə sekme ʂotlamarəm=da
+20170806 19.1,Connector,Verb,PST,No,"vara, tebr сопровождающие maʂinzam, ikën polza berën, mana tortsa kəlarʨëɕte, lebʲotkabala, i ɕanda ɕër gaɕrəmər ebër."
+20170806 21.1,Connector,Verb,PST,No,toʐe буксовать tuzilʨëde i ɕa vəl propəzelʲ ʨəmrə
+20170806 22.1,Connector,Verb,PST,No,vara maʂini ɕormala pajlanʨëde ладно vodítelë жив tada ʨiberex jolza
+20170806 23.1,Connector,Verb,PST,No,ʨopsa pɨrdəmərda ʨiberek.
+20170806 24.1,Coordination,Verb,PST,No,"karan toʐe мотоцикл ɕanda, kolʲaskəba pɨrʨə toʐe kajla ɕarnʨəde lejele orəx malala gajmarë kajla ɕarnza gajzerʨë"
+20170806 26.1,Connector,Verb,PST,No,xəbarʨëɕta vara дальше продолжили
+20170806 8.1,Coordination,Verb,PST,No,vot vëdë ɕomər vëɕkeleme boɕlarəde ɕul pərlanza larʨə
+20170808 11.1,Connector,Verb,NPST,No,ʨut i xəbarat ta духовка lartmala
+20170808 17.1,Connector,Noun,,No,unʐən vara ʨəvaʂ səmaxete vɨrəs səmagə polza larʨë
+20170808 18.1,Indef,Pronoun,Neg,No,pëdëm klas koldəmər a vəl nimte ənlanmarə larʨë
+20170808 2.1,Coordination,Verb,NPST,No,vot droʑine ilmelede əʐə sët əʐə ʂu jarmala
+20170808 24.1,Connector,Dem,,No,ɕanbada vəl pëlet vɨlʲəxsam əɕta сдавать tunine
+20170808 26.1,Coordination,Verb,PST,No,sikse dərʨë da ʨasrak nigamran maldan i ʨi vərəm səmax гидроэлектозаготскот terë
+20170808 30.1,Connector,Noun,,No,man bapi marʲ antonna onda viɕ tvat tvat xut ta gajza gilnë
+20170808 30.1,Indef,Pronoun,,No,ɕak sluʨajə ɕak teslëge jep xotʲ xəʑanda astuza pornap
+20170808 31.1,Additive,Pronoun,Personal,No,jepër de onda polza
+20170808 33.1,Connector,Verb,PC_PST,No,muskavra ɕ... këbe ɕëleme vërennë de vara man tø... a  papi jaldi xër arəmzem vali de
+20170808 37.1,UniversalQuantifier,Quant,,No,studentsam bor da kalaɕtaraʨə ɕan pirgi bosrəm diktofonba ɕɨraʨə da ɕan pirgi
+20170808 37.1,Connector,Verb,NPST,No,studentsam bor da kalaɕtaraʨə ɕan pirgi bosrəm diktofonba ɕɨraʨə da ɕan pirgi
+20170808 38.1,Connector,Verb,NPST,No,diktofonba ɕɨraʨə da это studentsam ɕan pirgi posrəm posrəm
+20170808 41.1,Connector,Pronoun,мест,No,xalʲ svetlanəba kalaɕrəm ser de kajmes teze
+20170808 43.1,Connector,Adverb,,No,miʂa paɕər da kəndərla звонить turə mën ëɕlen tet te
+20170808 43.1,Coordination,Verb,NPST,No,miʂa paɕər da kəndərla звонить turə mën ëɕlen tet te
+20170808 44.1,Connector,Verb,"PST, PST ",,nimex te terëm de pɨl sërme pɨratni terë de
+20170808 44.1,Indef,Pronoun,Neg,No,nimex te terëm de pɨl sërme pɨratni terë de
+20170808 45.1,Connector,Verb,NPST,Yes,ɨranak ɨranax kajatər da
+20170808 47.1,Connector,Verb,PST,No,paɕər miʂa звонить turë da vəl miʂanʲa
+20170808 48.1,Connector,Verb,PST,Yes,jep pël... jep pëlmerëm de
+20170808 5.1,Connector,PC,PC_RES,No,posnɨ ɕuba jalaza lardanda alə ɕomne ɕɨbəɕmast 
+20170808 51.1,Connector,Verb,PST,No,miʂa звонить turë de jorat
+20170808 58.1,Connector,Verb,NPST-COP_PST,Yes,xële xolara ʂubəʂkar xolinʥe aslə xërë banʥa borənatʨə da
+20170808 6.1,Connector,Noun,,No,vun zakərməʂ ноябрь de armine toksa garʲ... saldaga toksa garʲəm
+20170808 6.1,Coordination,Verb,INF,No,vitse lartmalada larat пусть 
+20170808 66.1,Coordination,Verb,NPST,No,marlʲaran marlʲaran ëɕletʨë de sinʲkaba синить tuza kraxmalba крахмалить tuza ɕərʑazamba kabərlatsa
+20170808 8.1,Connector,Verb,NPST,Yes,i karʲan ʨorstine tatse iledënde 
+20170811 2.1,Coordination,Verb,PST,No,saksine…saksi vəl saksi лавка saksi kəlardəmda ɕanda lardəmər
+20170811 3.1,Coordination,Verb,PST,No,nataʂə tərʨəda jep kodən boɕən vərgəndəm
+20170811 5.1,Coordination,Verb,PST,No,orinʥe ɕëklezerʨëde ɕandala vərgəndəm
+20170811 8.1,Coordination,Verb,PST,No,ona jɨdə kurnə da xyrinʥen ɕɨrtma puɕlanə
+20170811 9.1,Coordination,Verb,CV_PST,No,kuʐak xərama... xəraza kajza da jɨdəran tarnə
+20170812 1.1,Coordination,Verb,NPST,No,këreple ɕine posat ta oribe
+20170821 31.1,Connector,Verb,PST,Yes,ɕylele pəksa ilʨë de 
+20170821 5.1,Coordination,Verb,PST,No,arʑɨn anʨə da poʐadat karʑinkaja gruʂine
+20170821 69.1,ScalarAdditive,Pronoun,,No,xəj da ɨjtmarë
+20180714 10.1,Coordination,ATTR_TEMP	,,No,xorlaza kaɕxine  de ama ɕurlat xorlaza
+20180714 15.1,Additive,Noun,,No,kəʂtrine de torttarza
+20180714 18.1,Coordination,Verb,NPST,No,ama ɕurlat xorlamasən koneʂkelʲ pëʥëkëzem dogaʨə da ʂənza vileʨë  xorlamazan
+20190714 12.1,ComplexNum,Num,,No,oldə gilo da восемьсот грамм dortrë ɕa karbə
+20190714 6.1,Connector,Verb,PST,Yes,"numaj ʂotlaza dərmarəm, kajala kile gildëm de"
+20190715 15.1,Connector,Verb,PST,Yes,ep долго ʂotlaza dərmarəm pəʐalbala ɕylele perzerdëm de
+20190715 16.1,Coordination,Verb,PST,No,kaʂkərzam pərənʨəɕ ta tebër mënbe ʨopma poɕlarëɕ
+20190715 21.1,Coordination,Verb,PST,No,tebre pəʐalba berdëm de karʲən kajala ɕavrənmarë
+20190715 4.1,Connector,Noun,,No,"vonə ɕol da ɕidet наверно, давно vəl."
+20190715 6.1,Connector,Noun,,No,onda ɕa xalʲ fermi de ɕok
+20190716 1.1,Connector,Verb,PST,Yes,kanaʂ xolinʥen kilnë ʥonʲa per stolovine abat ɕime kërdëmër de
+20190716 13.1,Additive,Noun,,No,poʐarnɨj maʂinəba ɕitse onda jadrindan da kize on ʨonʲa poʐarnɨj maʂinzam
+20190716 14.1,Additive,Noun,,No,vopɕëm jonaʐar jaldan da kize izei ënde
+20190716 19.1,Connector,Verb,CV_SIM ,No,просто motopompə ɕana lartsa da istoʨnik xërine
+20190716 20.1,Connector,Verb,CV_SIM ,No,i ʂlangəba ʦisterna toldarza da kajala xəbarza ʂupa
+20190716 26.1,ScalarAdditive,Adverb,,No,"xalʲ da larat vəl, vot ɕanda borənza babuʂki"
+20190716 31.1,Connector,Verb,CV_SIM ,Yes,nu ɕa babuʂki vəl пожар vəxədənʥa ikonba pørt jëridavri ɕavrənza da
